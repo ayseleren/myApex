@@ -3,6 +3,8 @@ public with sharing class AssetTriggerTest {
     @istest
     public static void testAssetTrigger() {
 
+        //testing for github
+
         account acc=new account(name='test');
         insert acc;
         list<asset> assetList=new list<asset>();
