@@ -1,0 +1,1 @@
+system.debug(TwoStringConcate.concateAndUpperCase('Apex', 'beatiful'));
